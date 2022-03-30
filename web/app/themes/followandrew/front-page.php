@@ -10,7 +10,6 @@ get_header();
             the_content();
         }
     }
-
     ?>
 </article>
 
