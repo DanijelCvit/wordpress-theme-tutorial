@@ -7,6 +7,7 @@ web/app/uploads/*
 !web/app/uploads/.gitkeep
 web/app/cache/*
 web/app/themes/followandrew/theme-template/*
+backup/*
 # WordPress
 web/wp
 web/.htaccess
@@ -16,8 +17,7 @@ web/.htaccess
 
 # Dotenv
 .env
-.env.*
-!.env.example
+!.env
 
 # Composer
 /vendor
