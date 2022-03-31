@@ -42,4 +42,3 @@ function followandrew_register_scripts()
 }
 
 add_action('wp_enqueue_scripts', 'followandrew_register_scripts');
-
