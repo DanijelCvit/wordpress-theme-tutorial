@@ -4,10 +4,12 @@ web/app/plugins/*
 web/app/mu-plugins/*/
 web/app/upgrade
 web/app/uploads/*
+!web/app/plugins/elementor-test-addon
 !web/app/uploads/.gitkeep
 web/app/cache/*
 web/app/themes/followandrew/theme-template/*
 backup/*
+
 # WordPress
 web/wp
 web/.htaccess
